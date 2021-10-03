@@ -88,7 +88,6 @@ public class RegistrationPage {
         cityInput.click();
         cityInput.$(byText(city)).click();
         return this;
-
     }
 
     public void submit() {

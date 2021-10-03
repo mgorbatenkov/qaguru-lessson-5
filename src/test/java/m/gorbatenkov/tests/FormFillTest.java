@@ -1,6 +1,5 @@
 package m.gorbatenkov.tests;
 
-
 import m.gorbatenkov.pages.RegistrationPage;
 import org.junit.jupiter.api.Test;
 
